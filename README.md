@@ -1,5 +1,5 @@
-# qqinfo
-获取QQ图像 昵称
+# qqinfo  
+  获取QQ图像 昵称
 ------
 ```package main
 
