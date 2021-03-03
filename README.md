@@ -9,6 +9,15 @@ go get -u github.com/chinacase/qqinfo
 
 # example
 ------
+```
+package main
+
+import (
+	"fmt"
+
+	"github.com/chinacase/qqinfo"
+)
+
 func main() {
 	qq := "397932843"
 	q, err := qqinfo.GetQQInfo(qq)
@@ -19,5 +28,6 @@ func main() {
 	fmt.Println(q.Name)
 	fmt.Println(q.Image)
 }
+
 
 ```
