@@ -1,6 +1,11 @@
 # qqinfo  
   获取QQ图像 昵称
 ------
+# install
+------
+```
+go get -u github.com/chinacase/qqinfo
+```
 ```package main
 
 import (
@@ -8,7 +13,8 @@ import (
 
 	"github.com/chinacase/qqinfo"
 )
-
+# example
+------
 func main() {
 	qq := "397932843"
 	q, err := qqinfo.GetQQInfo(qq)
