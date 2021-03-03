@@ -6,13 +6,7 @@
 ```
 go get -u github.com/chinacase/qqinfo
 ```
-```package main
 
-import (
-	"fmt"
-
-	"github.com/chinacase/qqinfo"
-)
 # example
 ------
 func main() {
