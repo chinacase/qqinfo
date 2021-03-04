@@ -1,15 +1,15 @@
 # qqinfo  
   qq 相关接口封装
-------
+
 
 ## install
-------
+
 ```
 go get -u github.com/chinacase/qqinfo
 ```
 
 ## 获取QQ图像 昵称
-------
+
 ```
 
 func main() {
@@ -25,7 +25,7 @@ func main() {
 
 
 ```
-------
+
 ## qq域名报红检测
 ```
 
