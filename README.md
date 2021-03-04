@@ -26,7 +26,7 @@ func main() {
 
 ```
 ------
-## 域名报红检测
+## qq域名报红检测
 ```
 
 func main() {
@@ -34,4 +34,4 @@ func main() {
 	fmt.Println(r)
 }
 ```
-
++ Status 状态 1：安全性未知 2：危险网站 3：安全网站
